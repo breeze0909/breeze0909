@@ -29,7 +29,5 @@ dev
 <br />
 
 ### Leetcode
-
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=brmon0923&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
-
+![Leetcode Stats](https://leetcard.jacoblin.cool/brmon0923)
 #
